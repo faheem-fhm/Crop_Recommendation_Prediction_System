@@ -1,13 +1,13 @@
-# 🌱 Crop Recommendation System
+#  Crop Recommendation System
 
-## 📌 Overview
+##  Overview
 Agriculture plays a vital role in food production, and selecting the right crop is one of the most important decisions for farmers. This project uses Machine Learning techniques to recommend the most suitable crop based on soil nutrients and environmental conditions.
 
 The system analyzes parameters such as Nitrogen, Phosphorus, Potassium, temperature, humidity, pH, and rainfall to predict the best crop for cultivation.
 
 ---
 
-# 🚀 Features
+#  Features
 
 ✅ Data preprocessing and cleaning  
 ✅ Exploratory Data Analysis (EDA)  
@@ -18,7 +18,7 @@ The system analyzes parameters such as Nitrogen, Phosphorus, Potassium, temperat
 
 ---
 
-# 🛠 Technologies Used
+#  Technologies Used
 
 - Python
 - Pandas
@@ -30,7 +30,7 @@ The system analyzes parameters such as Nitrogen, Phosphorus, Potassium, temperat
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```bash
 ├── Crop_Recommendation with code of pickle.ipynb
@@ -41,7 +41,7 @@ The system analyzes parameters such as Nitrogen, Phosphorus, Potassium, temperat
 
 ---
 
-# ⚙️ Installation
+#  Installation
 
 ### 1. Clone the Repository
 
@@ -66,7 +66,7 @@ Open the notebook file and run all the cells step by step.
 
 ---
 
-# 📊 Input Parameters
+#  Input Parameters
 
 The model predicts crops using the following agricultural features:
 
@@ -80,7 +80,7 @@ The model predicts crops using the following agricultural features:
 
 ---
 
-# 🎯 How It Works
+#  How It Works
 
 1. Load the dataset
 2. Perform preprocessing and visualization
@@ -90,7 +90,7 @@ The model predicts crops using the following agricultural features:
 
 ---
 
-# 🔮 Future Enhancements
+#  Future Enhancements
 
 - Deploy using Streamlit or Flask
 - Add real-time weather forecasting
@@ -100,7 +100,7 @@ The model predicts crops using the following agricultural features:
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 Mohamed Faheem
 
